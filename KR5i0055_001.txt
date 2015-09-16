@@ -1,10 +1,11 @@
-#-*- mode: org; -*-
-#+DATE: 2015-08-29 17:53:46.896522
-#+PROPERTY: ID KR5i0055
-#+TITLE:呂帝聖蹟紀要 Lüdi Shengji Jiyao
+# -*- mode: mandoku-view -*-
+#+TITLE: 呂帝聖蹟紀要 Lüdi Shengji Jiyao
+#+DATE: 2015-08-29 17:53:48
 #+PROPERTY: BASEEDITION CK-KZ
-#+PROPERTY: WITNESS CK-KZ
-<pb:CK-KZ_KR5i0055_01p001a>¶
+#+PROPERTY: WITNESS YP-C
+#+PROPERTY: JUAN 0
+¶¶
+<md:CK-KZ_KR5i0055_01p001a>¶<pb:YP-C_KR5i0055_14biji-05-0002a>
 呂帝聖蹟紀要題詞¶
 無極寶懺曰三界飛行絶迹十方救苦尋聲知言哉知言哉我¶
 帝師普度世人等觀音之愿海恆隱現而無方徧一切地則一¶
@@ -14,9 +15,8 @@
 孚佑上帝猶在人間斯慕善者有興起皈依之忱卽爲惡者凛¶
 昭鑒感應之赫則卽數十則之遺聞舊事而紀其要雖不能見¶
 我¶
-帝師之全體而亦足以彰¶
-<pb:CK-KZ_KR5i0055_01p001b>¶
+帝師之全體而亦足以彰¶<md:CK-KZ_KR5i0055_01p001b>¶
+<pb:YP-C_KR5i0055_14biji-05-0002b>
 慈心之妙運矣後之覽者各就見聞所及而印證之庶知駕船¶
 大海接應十方者之眞爲三界大恩師也宏教弟子柳守元熏¶
-沐題詞¶
-¶	
+沐題詞
